@@ -1,4 +1,5 @@
 # switch-lite-raspberrypi-mod
+credits to Ansem-SoD for the Picofly firmware
 Hardware mod of a Nintendo Switch Lite using a Raspberry Pi microcontroller!
 # Overview :D
 I wanted to challenge myself by turning something i already own into something more versitale and special, so I integrated a Raspberry Pi into a Nintendo Switch Lite to create a custom handheld embedded system!
